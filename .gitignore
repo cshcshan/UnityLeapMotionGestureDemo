@@ -1,0 +1,42 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+Library/
+Assets/AssetStoreTools*
+UnityGenerated/
+*.meta
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+obj/
+bin/
+ExportedObj/
+UnityVS/
+UnityVS.meta
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.dotsettings
+*.user
+*.unityproj
+*.booproj
+StyleCopViolations.xml
+StyleCop.Cache
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
